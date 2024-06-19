@@ -7,5 +7,8 @@ linuxserver/plex:latest
 lswl/vertex:stable
 linuxserver/qbittorrent:latest
 jc21/nginx-proxy-manager:latest
+linuxserver/heimdall:latest
+homarr/homarr:latest
+jxxghp/moviepilot:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
